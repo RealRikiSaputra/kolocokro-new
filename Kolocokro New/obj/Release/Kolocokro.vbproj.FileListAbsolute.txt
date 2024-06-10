@@ -1,0 +1,28 @@
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\Kolocokro New.exe.config
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Interop.AutoItX3Lib.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro.vbproj.ResolveComReference.cache
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\selenium-manager\linux\selenium-manager
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\selenium-manager\macos\selenium-manager
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\selenium-manager\windows\selenium-manager.exe
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\Kolocokro New.exe
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\Kolocokro New.pdb
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\Kolocokro New.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\Newtonsoft.Json.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\UndetectedChromeDriver.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\WebDriver.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\WebDriver.Support.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\Newtonsoft.Json.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Release\UndetectedChromeDriver.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.AddDataForm1.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.FormCSV.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.FormLisensi.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.FormLogin.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.FormMenu.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.FormProfile.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.FormSchedule.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro_New.Resources.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro.vbproj.GenerateResource.Cache
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro New.exe
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro New.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Release\Kolocokro New.pdb

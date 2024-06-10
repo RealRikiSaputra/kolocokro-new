@@ -1,0 +1,29 @@
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\Kolocokro New.exe.config
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\Kolocokro New.exe
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\Kolocokro New.pdb
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\Kolocokro New.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\Newtonsoft.Json.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\UndetectedChromeDriver.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\WebDriver.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\WebDriver.Support.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\Newtonsoft.Json.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\bin\Debug\UndetectedChromeDriver.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro New.vbproj.ResolveComReference.cache
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.AddDataForm1.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.FormCSV.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.FormLisensi.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.FormLogin.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.FormMenu.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.FormProfile.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.FormSchedule.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro_New.Resources.resources
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro New.vbproj.GenerateResource.Cache
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro New.exe
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro New.xml
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro New.pdb
+C:\Kerja\VS 2015\Kolocokro New\Kolocokro New\obj\Debug\Kolocokro New.vbprojResolveAssemblyReference.cache
